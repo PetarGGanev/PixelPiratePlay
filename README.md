@@ -1,4 +1,4 @@
-# PixelPiratePlay
+# Pixel Pirate Play
 
 This is the code for the upcoming 'Pixel Pirate Play' platformer videogame.
 
